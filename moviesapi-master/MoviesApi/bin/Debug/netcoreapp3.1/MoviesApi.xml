@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MoviesApi</name>
+    </assembly>
+    <members>
+        <member name="M:MoviesApi.Controllers.UserController.Authenticate(Movies.Core.Helpers.AuthModel)">
+            <summary>
+            Username ile kimlik doğrulaması
+            </summary>
+            <param name="authModel">Username</param>
+            <returns>Token ve user bilgisi</returns>
+        </member>
+    </members>
+</doc>
