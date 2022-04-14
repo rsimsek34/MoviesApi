@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bEXQsiSGz7Imx4P6Jd9RA3SS+Tx+UBnrvOutiTyfFEcrVBw09RGARJfe7mDl4mKicCDAE5Tk1LsVr5pl2GsITA==",
+  "dgSpecHash": "QpMzpsGPViOYuteJNu3uiHGSdGQTG2GrPQnB6KqxgiKEw5E9cVL3UpYSPv+148OiGxTZ4kQeLW82aRAGHDBglA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\recep_simsek\\source\\repos\\moviesapi-master\\Movies.Data\\Movies.Data.csproj",
+  "projectFilePath": "C:\\Documents\\GitHub\\MoviesApi\\moviesapi-master\\Movies.Data\\Movies.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\recep_simsek\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\recep_simsek\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

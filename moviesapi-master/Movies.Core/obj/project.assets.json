@@ -5727,11 +5727,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\recep_simsek\\source\\repos\\moviesapi-master\\Movies.Core\\Movies.Core.csproj",
+      "projectUniqueName": "C:\\Documents\\GitHub\\MoviesApi\\moviesapi-master\\Movies.Core\\Movies.Core.csproj",
       "projectName": "Movies.Core",
-      "projectPath": "C:\\Users\\recep_simsek\\source\\repos\\moviesapi-master\\Movies.Core\\Movies.Core.csproj",
+      "projectPath": "C:\\Documents\\GitHub\\MoviesApi\\moviesapi-master\\Movies.Core\\Movies.Core.csproj",
       "packagesPath": "C:\\Users\\recep_simsek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\recep_simsek\\source\\repos\\moviesapi-master\\Movies.Core\\obj\\",
+      "outputPath": "C:\\Documents\\GitHub\\MoviesApi\\moviesapi-master\\Movies.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\recep_simsek\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5749,8 +5749,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\recep_simsek\\source\\repos\\moviesapi-master\\Movies.Data\\Movies.Data.csproj": {
-              "projectPath": "C:\\Users\\recep_simsek\\source\\repos\\moviesapi-master\\Movies.Data\\Movies.Data.csproj"
+            "C:\\Documents\\GitHub\\MoviesApi\\moviesapi-master\\Movies.Data\\Movies.Data.csproj": {
+              "projectPath": "C:\\Documents\\GitHub\\MoviesApi\\moviesapi-master\\Movies.Data\\Movies.Data.csproj"
             }
           }
         }

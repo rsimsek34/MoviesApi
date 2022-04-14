@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iOISYZ6v8WdysAGW9eMsGi3jN2CFw9CUf0SuBAd4bjXPAkJeL8lk/wtSfjQtI7ctOKvATl/fbV10LUCYds6qZw==",
+  "dgSpecHash": "Ojo+0/Dnotd7XxOQw+tlKKhFwsZHDKgf/PBWRjQE4gV9cueHU30EQKC+w0yhDxemkqmFJX1m6QHq+LvRPX7XYg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\recep_simsek\\source\\repos\\moviesapi-master\\MoviesApi\\MoviesApi.csproj",
+  "projectFilePath": "C:\\Documents\\GitHub\\MoviesApi\\moviesapi-master\\MoviesApi\\MoviesApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\recep_simsek\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\recep_simsek\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

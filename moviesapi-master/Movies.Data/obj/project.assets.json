@@ -5804,11 +5804,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\recep_simsek\\source\\repos\\moviesapi-master\\Movies.Data\\Movies.Data.csproj",
+      "projectUniqueName": "C:\\Documents\\GitHub\\MoviesApi\\moviesapi-master\\Movies.Data\\Movies.Data.csproj",
       "projectName": "Movies.Data",
-      "projectPath": "C:\\Users\\recep_simsek\\source\\repos\\moviesapi-master\\Movies.Data\\Movies.Data.csproj",
+      "projectPath": "C:\\Documents\\GitHub\\MoviesApi\\moviesapi-master\\Movies.Data\\Movies.Data.csproj",
       "packagesPath": "C:\\Users\\recep_simsek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\recep_simsek\\source\\repos\\moviesapi-master\\Movies.Data\\obj\\",
+      "outputPath": "C:\\Documents\\GitHub\\MoviesApi\\moviesapi-master\\Movies.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\recep_simsek\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Cjg1zwOcFha1nacluyRK5LdLc0qCuoP18GnsOUphqzhfIvL2uls8ORj+1u8I2f16i9qTkMPklkosg7QyzsddLg==",
+  "dgSpecHash": "vPi8O5MDZ26prvxoCfXNvh0WLgFqq/Sfgx7u+EChQpiSDBvsgBknVuoHPuqZHhWyLn4NpVu1TvwFP2x1VX8kNQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\recep_simsek\\source\\repos\\moviesapi-master\\Movies.Core\\Movies.Core.csproj",
+  "projectFilePath": "C:\\Documents\\GitHub\\MoviesApi\\moviesapi-master\\Movies.Core\\Movies.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\recep_simsek\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\recep_simsek\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
