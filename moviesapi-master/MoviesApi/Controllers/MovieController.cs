@@ -20,15 +20,15 @@ namespace MoviesApi.Controllers
         public MovieController(IMovieService movieService) { _movieService = movieService; }
         // GET: api/<MovieController>
 
-        [HttpGet("popularmovies",Name = "GetPopularMovies")]
+        [HttpGet("popularmovies", Name = "GetPopularMovies")]
         [ProducesResponseType(typeof(ApiValidationErrorResponse), 400)]
-        public async Task<IActionResult> PopularMovies(string page=null)
+        public async Task<IActionResult> PopularMovies(string page = null)
         {
-            var result =  await _movieService.PopularMovies(page);
-            
+            var result = await _movieService.PopularMovies(page);
+
             return Success(Messages.Success, result);
         }
-        [HttpGet("upcomingmovies",Name ="GetUpComingMovies")]
+        [HttpGet("upcomingmovies", Name = "GetUpComingMovies")]
         [ProducesResponseType(typeof(ApiValidationErrorResponse), 400)]
         public async Task<IActionResult> UpcomingMovies(string page = null)
         {
@@ -58,7 +58,7 @@ namespace MoviesApi.Controllers
             return Success(Messages.Success, result);
         }
         [AllowAnonymous]
-        [HttpGet("evulationDetails",Name = "GetEvulationDetails")]
+        [HttpGet("evulationDetails", Name = "GetEvulationDetails")]
         [ProducesResponseType(typeof(ApiValidationErrorResponse), 400)]
         public async Task<IActionResult> EvulationDetails(int movieId)
         {

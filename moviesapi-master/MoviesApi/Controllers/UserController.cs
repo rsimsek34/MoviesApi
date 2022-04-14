@@ -22,24 +22,24 @@ namespace MoviesApi.Controllers
         private readonly IUserService _userService;
         public UserController(IUserService userService) { _userService = userService; }
 
-        [HttpPost("create",Name ="CreateUser")]
+        [HttpPost("create", Name = "CreateUser")]
         [ProducesResponseType(typeof(ApiValidationErrorResponse), 400)]
         public async Task<IActionResult> CreateUser([FromBody] User user)
         {
             var userinfo = await _userService.AddUser(user);
             return Success(Messages.Success, userinfo);
         }
-       /// <summary>
-       /// Username ile kimlik doğrulaması
-       /// </summary>
-       /// <param name="authModel">Username</param>
-       /// <returns>Token ve user bilgisi</returns>
-        
+        /// <summary>
+        /// Username ile kimlik doğrulaması
+        /// </summary>
+        /// <param name="authModel">Username</param>
+        /// <returns>Token ve user bilgisi</returns>
+
         [HttpPost("authenticate", Name = "AuthenticateUser")]
         [ProducesResponseType(typeof(ApiValidationErrorResponse), 400)]
-        public  IActionResult Authenticate([FromBody]AuthModel authModel)
+        public IActionResult Authenticate([FromBody] AuthModel authModel)
         {
-            var tokeninfo =  _userService.Authenticate(authModel.Username);
+            var tokeninfo = _userService.Authenticate(authModel.Username);
             return Success(Messages.Success, tokeninfo);
         }
 
